@@ -10,4 +10,4 @@ Operated with High-level synthesis feature from Vitis HLS so that the C++ behavi
 
 Credits to [Andrei Buhnici](https://github.com/AndreiBuhnici) for giving me some advices and inspiration.
 
-![My Image](ugcs3_v3_project_attachments_41ED0B3F-661A-436F-B094-85BBA8BE4A42-maxresdefault.jpg)
+![My Image](maxresdefault.jpg)
