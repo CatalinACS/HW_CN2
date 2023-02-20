@@ -1,13 +1,13 @@
 # Seven-Segment-LED-Display-On-FPGA
 
-Implemented in C++ a Halite bot using algorithm design techniques such as Divide and Conquer, Greedy and Dynamic Programming.
+Created a C++ project which takes 8 signals as input from a Digilent Nexys A7-100T board/device and displays the correct number on it.
 
-The goal of the implementation is to efficiently save [1] the bot's strength such that the highest score cells will be attacked first.
+This implementation supports input from [0, 99] (only 1 or 2 digits numbers can be displayed).
 
-Obtained the 1st prize of the Champions League Competition which was hosted by ACS-UPB.
+Implemented the Double Dabble algorithm for simplifying the conversion between Binary and BCD formats.
 
-Credits to [Andrei Buhnici](https://github.com/AndreiBuhnici) for giving me some advices and ideas.
+Operated with High-level synthesis feature from Vitis HLS so that the C++ behavioral specification is used in Vivado along with a constraint file (Nexys-A7-100T-Master.xdc).
 
-[1]: A greedy approach was used for achieving this functionality.
+Credits to [Andrei Buhnici](https://github.com/AndreiBuhnici) for giving me some advices and inspiration.
 
 ![My Image](nex_div.jpg)
