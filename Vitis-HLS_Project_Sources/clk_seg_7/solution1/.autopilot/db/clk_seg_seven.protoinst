@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"clk_seg_seven": {
+			"proto_instances": {
+			}
+		}
+	}
+}

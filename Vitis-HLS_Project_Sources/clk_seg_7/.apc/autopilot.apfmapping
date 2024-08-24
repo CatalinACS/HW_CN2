@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="clk_seg_seven.h" path="D:\clk_seg_7\clk_seg_seven.h"/>
+    <originFiles name="clk_seg_seven.cpp" path="D:\clk_seg_7\clk_seg_seven.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="clk_seg-tb.h" path="D:\clk_seg_7\clk_seg-tb.h"/>
+    <originFiles name="clk_seg-tb.cpp" path="D:\clk_seg_7\clk_seg-tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

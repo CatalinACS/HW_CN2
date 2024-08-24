@@ -1,0 +1,504 @@
+<xilinx:hls_fe_msgs>
+    <msg msg_groups="PRAGMA_VERBOSE_DUMP" msg_id="207-5471" msg_severity="WARNING" msg_loc="C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:724:9" msg_body="HLS pragma dump">
+        <args ARG_PragmaFunction="and_reduce" ARG_PragmaIsValid="1" ARG_PragmaType="unroll" ClangWarningOption="dump-hls-pragmas"/>
+    </msg>
+    <msg msg_groups="PRAGMA_VERBOSE_DUMP" msg_id="207-5471" msg_severity="WARNING" msg_loc="C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:738:9" msg_body="HLS pragma dump">
+        <args ARG_PragmaFunction="or_reduce" ARG_PragmaIsValid="1" ARG_PragmaType="unroll" ClangWarningOption="dump-hls-pragmas"/>
+    </msg>
+    <msg msg_groups="PRAGMA_VERBOSE_DUMP" msg_id="207-5471" msg_severity="WARNING" msg_loc="C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:752:9" msg_body="HLS pragma dump">
+        <args ARG_PragmaFunction="xor_reduce" ARG_PragmaIsValid="1" ARG_PragmaType="unroll" ClangWarningOption="dump-hls-pragmas"/>
+    </msg>
+    <msg msg_groups="PRAGMA_VERBOSE_DUMP" msg_id="207-5471" msg_severity="WARNING" msg_loc="D:/7_segment/solution1/csynth.tcl:17:9" msg_body="HLS pragma dump">
+        <args ARG_PragmaContext="directive" ARG_PragmaFunction="seven_seg" ARG_PragmaIsValid="1" ARG_PragmaOptions="name=seven_seg" ARG_PragmaType="top" ClangWarningOption="dump-hls-pragmas"/>
+    </msg>
+    <msg msg_groups="PRAGMA_VERBOSE_DUMP" msg_id="207-5471" msg_severity="WARNING" msg_loc="D:/7_segment/solution1/directives.tcl:6:9" msg_body="HLS pragma dump">
+        <args ARG_PragmaContext="directive" ARG_PragmaFunction="seven_seg" ARG_PragmaIsValid="1" ARG_PragmaOptions="name=seven_seg" ARG_PragmaType="top" ClangWarningOption="dump-hls-pragmas"/>
+    </msg>
+    <msg msg_groups="PRAGMA_VERBOSE_DUMP" msg_id="207-5471" msg_severity="WARNING" msg_loc="7_segment/7_seg.cpp:10:9" msg_body="HLS pragma dump">
+        <args ARG_PragmaFunction="seven_seg" ARG_PragmaIsValid="1" ARG_PragmaType="pipeline" ClangWarningOption="dump-hls-pragmas"/>
+    </msg>
+    <msg msg_groups="PRAGMA_VERBOSE_DUMP" msg_id="207-5471" msg_severity="WARNING" msg_loc="7_segment/7_seg.cpp:11:9" msg_body="HLS pragma dump">
+        <args ARG_PragmaFunction="seven_seg" ARG_PragmaIsValid="1" ARG_PragmaOptions="mode=ap_none port=input" ARG_PragmaType="interface" ClangWarningOption="dump-hls-pragmas"/>
+    </msg>
+    <msg msg_groups="PRAGMA_VERBOSE_DUMP" msg_id="207-5471" msg_severity="WARNING" msg_loc="7_segment/7_seg.cpp:12:9" msg_body="HLS pragma dump">
+        <args ARG_PragmaFunction="seven_seg" ARG_PragmaIsValid="1" ARG_PragmaOptions="mode=ap_none port=refresh_signal" ARG_PragmaType="interface" ClangWarningOption="dump-hls-pragmas"/>
+    </msg>
+    <msg msg_groups="PRAGMA_VERBOSE_DUMP" msg_id="207-5471" msg_severity="WARNING" msg_loc="7_segment/7_seg.cpp:13:9" msg_body="HLS pragma dump">
+        <args ARG_PragmaFunction="seven_seg" ARG_PragmaIsValid="1" ARG_PragmaOptions="mode=ap_none port=seg_seven_data" ARG_PragmaType="interface" ClangWarningOption="dump-hls-pragmas"/>
+    </msg>
+    <msg msg_groups="PRAGMA_VERBOSE_DUMP" msg_id="207-5471" msg_severity="WARNING" msg_loc="7_segment/7_seg.cpp:14:9" msg_body="HLS pragma dump">
+        <args ARG_PragmaFunction="seven_seg" ARG_PragmaIsValid="1" ARG_PragmaOptions="mode=ap_none port=seg_seven_enable" ARG_PragmaType="interface" ClangWarningOption="dump-hls-pragmas"/>
+    </msg>
+    <msg msg_groups="PRAGMA_VERBOSE_DUMP" msg_id="207-5471" msg_severity="WARNING" msg_loc="7_segment/7_seg.cpp:15:9" msg_body="HLS pragma dump">
+        <args ARG_PragmaFunction="seven_seg" ARG_PragmaIsValid="1" ARG_PragmaOptions="mode=ap_ctrl_none port=return" ARG_PragmaType="interface" ClangWarningOption="dump-hls-pragmas"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_base.h:260:67" msg_body="Inlining function 'ssdm_int&lt;8, false&gt;::ssdm_int(unsigned char)' into 'ap_int_base&lt;8, false&gt;::ap_int_base(int)'">
+        <args Callee="ssdm_int&lt;8, false&gt;::ssdm_int(unsigned char)" Caller="ap_int_base&lt;8, false&gt;::ap_int_base(int)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int.h:333:58" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::ap_int_base(int)' into 'ap_uint&lt;8&gt;::ap_uint(int)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::ap_int_base(int)" Caller="ap_uint&lt;8&gt;::ap_uint(int)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.h:4:3" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into '__cxx_global_var_init'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="__cxx_global_var_init"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.h:13:3" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into '__cxx_global_var_init'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="__cxx_global_var_init"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.h:12:3" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into '__cxx_global_var_init'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="__cxx_global_var_init"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.h:11:3" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into '__cxx_global_var_init'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="__cxx_global_var_init"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.h:10:3" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into '__cxx_global_var_init'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="__cxx_global_var_init"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.h:9:3" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into '__cxx_global_var_init'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="__cxx_global_var_init"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.h:8:3" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into '__cxx_global_var_init'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="__cxx_global_var_init"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.h:7:3" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into '__cxx_global_var_init'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="__cxx_global_var_init"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.h:6:3" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into '__cxx_global_var_init'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="__cxx_global_var_init"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.h:5:3" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into '__cxx_global_var_init'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="__cxx_global_var_init"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_base.h:1175:30" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::ap_bit_ref(ap_int_base&lt;8, false&gt;*, int)' into 'ap_int_base&lt;8, false&gt;::operator[](int)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::ap_bit_ref(ap_int_base&lt;8, false&gt;*, int)" Caller="ap_int_base&lt;8, false&gt;::operator[](int)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:886:38" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator bool() const' into 'ap_bit_ref&lt;8, false&gt;::operator=(ap_bit_ref&lt;8, false&gt; const&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator bool() const" Caller="ap_bit_ref&lt;8, false&gt;::operator=(ap_bit_ref&lt;8, false&gt; const&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:886:12" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(unsigned long long)' into 'ap_bit_ref&lt;8, false&gt;::operator=(ap_bit_ref&lt;8, false&gt; const&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(unsigned long long)" Caller="ap_bit_ref&lt;8, false&gt;::operator=(ap_bit_ref&lt;8, false&gt; const&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:1088:365" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator bool() const' into 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator bool() const" Caller="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_base.h:260:67" msg_body="Inlining function '_ZN8ssdm_intILi4ELb0EEC2EDq4_j' into 'ap_int_base&lt;4, false&gt;::ap_int_base(int)'">
+        <args Callee="_ZN8ssdm_intILi4ELb0EEC2EDq4_j" Caller="ap_int_base&lt;4, false&gt;::ap_int_base(int)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int.h:333:58" msg_body="Inlining function 'ap_int_base&lt;4, false&gt;::ap_int_base(int)' into 'ap_uint&lt;4&gt;::ap_uint(int)'">
+        <args Callee="ap_int_base&lt;4, false&gt;::ap_int_base(int)" Caller="ap_uint&lt;4&gt;::ap_uint(int)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:20:9" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:243:42" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:242:40" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:236:39" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:235:37" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:227:42" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:226:40" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:220:39" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:219:37" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:211:42" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:210:40" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:204:39" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:203:37" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:195:42" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:194:40" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:188:39" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:187:37" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:179:42" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:178:40" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:172:39" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:171:37" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:163:42" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:162:40" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:156:39" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:155:37" msg_body="Inlining function 'ap_uint&lt;8&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;8&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:147:42" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:140:39" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:131:37" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:124:34" msg_body="Inlining function 'ap_uint&lt;4&gt;::ap_uint(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_uint&lt;4&gt;::ap_uint(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:104:23" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:104:13" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:95:26" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:95:16" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:86:28" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:86:18" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:83:32" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:83:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:81:32" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:81:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:80:32" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:80:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:79:32" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:79:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:78:28" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:78:18" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:77:28" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:77:18" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:74:28" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:74:18" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:71:32" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:71:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:68:36" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:68:26" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:66:36" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:66:26" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:65:36" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:65:26" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:64:36" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:64:26" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:63:32" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:63:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:62:32" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:62:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:61:28" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:61:18" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:60:28" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:60:18" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:59:90" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:59:80" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:59:72" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:59:62" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:59:53" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:59:43" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:59:34" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:59:24" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:55:28" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:55:18" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:52:32" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:52:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:50:32" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:50:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:49:32" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:49:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:48:32" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:48:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:47:28" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:47:18" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:46:28" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:46:18" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:43:28" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:43:18" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:40:32" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:40:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:37:36" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:37:26" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:35:36" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:35:26" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:34:36" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:34:26" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:33:36" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:33:26" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:32:32" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:32:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:31:32" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:31:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:30:28" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:30:18" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:29:28" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:29:18" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:28:90" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:28:80" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:28:72" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:28:62" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:28:53" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:28:43" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:28:34" msg_body="Inlining function 'bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="bool operator==&lt;8, false&gt;(ap_bit_ref&lt;8, false&gt; const&amp;, int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:28:24" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:27:20" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(ap_bit_ref&lt;8, false&gt; const&amp;)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(ap_bit_ref&lt;8, false&gt; const&amp;)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:27:10" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:27:22" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:25:24" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(ap_bit_ref&lt;8, false&gt; const&amp;)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(ap_bit_ref&lt;8, false&gt; const&amp;)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:25:14" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:25:26" msg_body="Inlining function 'ap_int_base&lt;8, false&gt;::operator[](int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_int_base&lt;8, false&gt;::operator[](int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:20:19" msg_body="Inlining function 'ap_bit_ref&lt;8, false&gt;::operator=(int)' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="ap_bit_ref&lt;8, false&gt;::operator=(int)" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="PRAGMA_UNROLL" msg_id="214-291" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:103:24" msg_body="Loop 'VITIS_LOOP_103_5' is marked as complete unroll implied by the pipeline pragma">
+        <args LoopName="VITIS_LOOP_103_5"/>
+    </msg>
+    <msg msg_groups="PRAGMA_UNROLL" msg_id="214-291" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:94:23" msg_body="Loop 'VITIS_LOOP_94_4' is marked as complete unroll implied by the pipeline pragma">
+        <args LoopName="VITIS_LOOP_94_4"/>
+    </msg>
+    <msg msg_groups="PRAGMA_UNROLL" msg_id="214-291" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:23:23" msg_body="Loop 'VITIS_LOOP_23_2' is marked as complete unroll implied by the pipeline pragma">
+        <args LoopName="VITIS_LOOP_23_2"/>
+    </msg>
+    <msg msg_groups="PRAGMA_UNROLL" msg_id="214-291" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:24:27" msg_body="Loop 'VITIS_LOOP_24_3' is marked as complete unroll implied by the pipeline pragma">
+        <args LoopName="VITIS_LOOP_24_3"/>
+    </msg>
+    <msg msg_groups="PRAGMA_UNROLL" msg_id="214-291" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:19:23" msg_body="Loop 'VITIS_LOOP_19_1' is marked as complete unroll implied by the pipeline pragma">
+        <args LoopName="VITIS_LOOP_19_1"/>
+    </msg>
+    <msg msg_groups="PRAGMA_UNROLL" msg_id="214-186" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:9:0" msg_body="Unrolling loop 'VITIS_LOOP_103_5' (7_segment/7_seg.cpp:103:24) in function 'seven_seg' completely with a factor of 4">
+        <args Factor="4" LoopLoc="7_segment/7_seg.cpp:103:24" LoopName="VITIS_LOOP_103_5"/>
+    </msg>
+    <msg msg_groups="PRAGMA_UNROLL" msg_id="214-186" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:9:0" msg_body="Unrolling loop 'VITIS_LOOP_94_4' (7_segment/7_seg.cpp:94:23) in function 'seven_seg' completely with a factor of 4">
+        <args Factor="4" LoopLoc="7_segment/7_seg.cpp:94:23" LoopName="VITIS_LOOP_94_4"/>
+    </msg>
+    <msg msg_groups="PRAGMA_UNROLL" msg_id="214-186" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:9:0" msg_body="Unrolling loop 'VITIS_LOOP_23_2' (7_segment/7_seg.cpp:23:23) in function 'seven_seg' completely with a factor of 8">
+        <args Factor="8" LoopLoc="7_segment/7_seg.cpp:23:23" LoopName="VITIS_LOOP_23_2"/>
+    </msg>
+    <msg msg_groups="PRAGMA_UNROLL" msg_id="214-186" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:9:0" msg_body="Unrolling loop 'VITIS_LOOP_24_3' (7_segment/7_seg.cpp:24:27) in function 'seven_seg' completely with a factor of 7">
+        <args Factor="7" LoopLoc="7_segment/7_seg.cpp:24:27" LoopName="VITIS_LOOP_24_3"/>
+    </msg>
+    <msg msg_groups="PRAGMA_UNROLL" msg_id="214-186" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:9:0" msg_body="Unrolling loop 'VITIS_LOOP_19_1' (7_segment/7_seg.cpp:19:23) in function 'seven_seg' completely with a factor of 8">
+        <args Factor="8" LoopLoc="7_segment/7_seg.cpp:19:23" LoopName="VITIS_LOOP_19_1"/>
+    </msg>
+    <msg msg_groups="PRAGMA_AGGREGATE" msg_id="214-241" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:9:0" msg_body="Aggregating scalar variable 'seg_seven_enable' with compact=bit mode in 4-bits">
+        <args AggregateTypeName="compact=bit" Bitwidth="4" HwTyName="scalar" Name="seg_seven_enable"/>
+    </msg>
+    <msg msg_groups="PRAGMA_AGGREGATE" msg_id="214-241" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:9:0" msg_body="Aggregating scalar variable 'seg_seven_data' with compact=bit mode in 8-bits">
+        <args AggregateTypeName="compact=bit" Bitwidth="8" HwTyName="scalar" Name="seg_seven_data"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:120:11" msg_body="Inlining function '_llvm.fpga.pack.none.i8.s_struct.ap_uint&lt;8&gt;s' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="_llvm.fpga.pack.none.i8.s_struct.ap_uint&lt;8&gt;s" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+    <msg msg_groups="CODE_UNSUPPORTED" msg_id="214-131" msg_severity="INFO" msg_loc="7_segment/7_seg.cpp:136:11" msg_body="Inlining function '_llvm.fpga.pack.none.i8.s_struct.ap_uint&lt;8&gt;s' into 'seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)'">
+        <args Callee="_llvm.fpga.pack.none.i8.s_struct.ap_uint&lt;8&gt;s" Caller="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+    </msg>
+</xilinx:hls_fe_msgs>
+

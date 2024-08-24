@@ -1,0 +1,1269 @@
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 4.346 seconds; current allocated memory: 320.387 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 3 seconds. Total elapsed time: 7.438 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 3 seconds. CPU system time: 1 seconds. Elapsed time: 7.384 seconds; current allocated memory: 306.699 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 3 seconds. Total elapsed time: 10.081 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 2 seconds. CPU system time: 0 seconds. Elapsed time: 2.601 seconds; current allocated memory: 318.820 MB.
+INFO: [HLS 200-112] Total CPU user time: 5 seconds. Total CPU system time: 2 seconds. Total elapsed time: 5.239 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 3.249 seconds; current allocated memory: 318.734 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 5.877 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 3.425 seconds; current allocated memory: 328.918 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 5.992 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.998 seconds; current allocated memory: 326.180 MB.
+INFO: [HLS 200-112] Total CPU user time: 3 seconds. Total CPU system time: 2 seconds. Total elapsed time: 3.375 seconds; peak allocated memory: 1.093 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 3.403 seconds; current allocated memory: 333.855 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 5.927 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 3.189 seconds; current allocated memory: 349.773 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 5.939 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 3.322 seconds; current allocated memory: 323.250 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 5.829 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 3.428 seconds; current allocated memory: 339.824 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 5.966 seconds; peak allocated memory: 1.101 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 3.689 seconds; current allocated memory: 313.559 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 6.353 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 3.458 seconds; current allocated memory: 323.504 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 5.901 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.362 seconds; current allocated memory: 44.270 MB.
+INFO: [HLS 200-112] Total CPU user time: 2 seconds. Total CPU system time: 1 seconds. Total elapsed time: 3.816 seconds; peak allocated memory: 1.105 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 2.632 seconds; current allocated memory: 350.883 MB.
+INFO: [HLS 200-112] Total CPU user time: 2 seconds. Total CPU system time: 1 seconds. Total elapsed time: 3.574 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100tcsg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.394 seconds; current allocated memory: 352.570 MB.
+INFO: [HLS 200-112] Total CPU user time: 2 seconds. Total CPU system time: 1 seconds. Total elapsed time: 2.346 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 3.941 seconds; current allocated memory: 263.238 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 6.672 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 5.181 seconds; current allocated memory: 325.027 MB.
+INFO: [HLS 200-112] Total CPU user time: 5 seconds. Total CPU system time: 2 seconds. Total elapsed time: 7.697 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 4.919 seconds; current allocated memory: 352.867 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 7.41 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: compilation error(s).
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 2.65 seconds; current allocated memory: 332.012 MB.
+INFO: [HLS 200-112] Total CPU user time: 5 seconds. Total CPU system time: 2 seconds. Total elapsed time: 5.059 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 4.267 seconds; current allocated memory: 323.949 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 6.665 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.02 seconds; current allocated memory: 797.113 MB.
+INFO: [HLS 200-10] Analyzing design file '7_segment/7_seg.cpp' ... 
+WARNING: [HLS 207-5555] Unsupported interface port data type in '#pragma HLS interface ap_none' (7_segment/7_seg.cpp:11:41)
+ERROR: [HLS 207-3776] use of undeclared identifier 'output' (7_segment/7_seg.cpp:12:41)
+WARNING: [HLS 207-5542] invalid variable expr  (7_segment/7_seg.cpp:12:41)
+WARNING: [HLS 207-4611] array index 11 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:88:24)
+INFO: [HLS 207-4110] array 'output' declared here (7_segment/7_seg.cpp:14:2)
+WARNING: [HLS 207-4611] array index 10 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:88:44)
+WARNING: [HLS 207-4611] array index 9 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:88:64)
+WARNING: [HLS 207-4611] array index 8 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:88:82)
+WARNING: [HLS 207-4611] array index 8 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:89:18)
+WARNING: [HLS 207-4611] array index 8 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:90:18)
+WARNING: [HLS 207-4611] array index 9 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:91:22)
+WARNING: [HLS 207-4611] array index 9 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:92:22)
+WARNING: [HLS 207-4611] array index 10 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:93:26)
+WARNING: [HLS 207-4611] array index 10 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:94:26)
+WARNING: [HLS 207-4611] array index 11 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:95:26)
+WARNING: [HLS 207-4611] array index 10 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:97:26)
+WARNING: [HLS 207-4611] array index 9 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:100:22)
+WARNING: [HLS 207-4611] array index 8 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:103:18)
+WARNING: [HLS 207-4611] array index 9 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:106:18)
+WARNING: [HLS 207-4611] array index 9 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:107:18)
+WARNING: [HLS 207-4611] array index 10 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:108:22)
+WARNING: [HLS 207-4611] array index 10 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:109:22)
+WARNING: [HLS 207-4611] array index 11 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:110:22)
+WARNING: [HLS 207-4611] array index 10 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:112:22)
+WARNING: [HLS 207-4611] array index 9 is past the end of the array (which contains 8 elements) (7_segment/7_seg.cpp:115:18)
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 4.183 seconds; current allocated memory: 339.781 MB.
+INFO: [HLS 200-112] Total CPU user time: 5 seconds. Total CPU system time: 2 seconds. Total elapsed time: 6.447 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.022 seconds; current allocated memory: 800.664 MB.
+INFO: [HLS 200-10] Analyzing design file '7_segment/7_seg.cpp' ... 
+WARNING: [HLS 207-5555] Unsupported interface port data type in '#pragma HLS interface ap_none' (7_segment/7_seg.cpp:11:41)
+INFO: [HLS 200-10] Analyzing design file '7_segment/binary_to_bcd.cpp' ... 
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 13.472 seconds; current allocated memory: 1.101 GB.
+ERROR: [HLS 214-157] Top function not found: there is no function named '7_segment'
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 20.546 seconds; current allocated memory: 335.398 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 22.989 seconds; peak allocated memory: 1.101 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.024 seconds; current allocated memory: 822.102 MB.
+INFO: [HLS 200-10] Analyzing design file '7_segment/7_seg.cpp' ... 
+WARNING: [HLS 207-5555] Unsupported interface port data type in '#pragma HLS interface ap_none' (7_segment/7_seg.cpp:11:41)
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 12.474 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-131] Inlining function 'ssdm_int<8, false>::ssdm_int(unsigned char)' into 'ap_int_base<8, false>::ap_int_base(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_base.h:260:67)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::ap_int_base(int)' into 'ap_uint<8>::ap_uint(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int.h:333:58)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:4:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:13:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:12:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:11:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:10:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:9:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:8:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:7:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:6:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:5:3)
+INFO: [HLS 214-131] Inlining function '_ZN8ssdm_intILi4ELb0EEC2EDq4_j' into 'ap_int_base<4, false>::ap_int_base(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_base.h:260:67)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<4, false>::ap_int_base(int)' into 'ap_uint<4>::ap_uint(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int.h:333:58)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, char*, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:124:34)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, char*, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:147:42)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, char*, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:140:39)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, char*, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:131:37)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_103_5' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:103:24)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_94_4' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:94:23)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_23_2' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:23:23)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_24_3' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:24:27)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_19_1' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:19:23)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_103_5' (7_segment/7_seg.cpp:103:24) in function 'seven_seg' completely with a factor of 4 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_94_4' (7_segment/7_seg.cpp:94:23) in function 'seven_seg' completely with a factor of 4 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_23_2' (7_segment/7_seg.cpp:23:23) in function 'seven_seg' completely with a factor of 8 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_24_3' (7_segment/7_seg.cpp:24:27) in function 'seven_seg' completely with a factor of 11 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_19_1' (7_segment/7_seg.cpp:19:23) in function 'seven_seg' completely with a factor of 8 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-241] Aggregating scalar variable 'seg_seven_enable' with compact=bit mode in 4-bits (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-241] Aggregating scalar variable 'seg_seven_data' with compact=bit mode in 8-bits (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-131] Inlining function '_llvm.fpga.pack.none.i8.s_struct.ap_uint<8>s' into 'seven_seg(bool, char*, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:120:11)
+INFO: [HLS 214-131] Inlining function '_llvm.fpga.pack.none.i8.s_struct.ap_uint<8>s' into 'seven_seg(bool, char*, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:136:11)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 8.76 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.001 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.213 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.17 seconds; current allocated memory: 1.100 GB.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (7_segment/7_seg.cpp:10:9) to (7_segment/7_seg.cpp:160:1) in function 'seven_seg'... converting 54 basic blocks.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.437 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.158 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'seven_seg' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'seven_seg' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'seven_seg'.
+WARNING: [HLS 200-885] The II Violation in module 'seven_seg' (function 'seven_seg'): Unable to schedule 'load' operation ('output', 7_segment/7_seg.cpp:27) on array 'input_r' due to limited memory ports (II = 1). Please consider using a memory core with more ports or partitioning the array 'input_r'.
+WARNING: [HLS 200-885] The II Violation in module 'seven_seg' (function 'seven_seg'): Unable to schedule 'load' operation ('output', 7_segment/7_seg.cpp:27) on array 'input_r' due to limited memory ports (II = 2). Please consider using a memory core with more ports or partitioning the array 'input_r'.
+WARNING: [HLS 200-885] The II Violation in module 'seven_seg' (function 'seven_seg'): Unable to schedule 'load' operation ('output', 7_segment/7_seg.cpp:27) on array 'input_r' due to limited memory ports (II = 3). Please consider using a memory core with more ports or partitioning the array 'input_r'.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 4, Depth = 9, function 'seven_seg'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.868 seconds; current allocated memory: 1.100 GB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.701 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'seven_seg' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/refresh_signal' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/input_r' to 'ap_memory'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/seg_seven_data' to 'ap_none'.
+WARNING: [RTGEN 206-101] Port 'seg_seven_data' with mode 'ap_none' may require an associated data valid signal to correctly communicate with other blocks or a test bench; automatic C/RTL co-simulation may not be able to verify such a port.
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/seg_seven_enable' to 'ap_none'.
+WARNING: [RTGEN 206-101] Port 'seg_seven_enable' with mode 'ap_none' may require an associated data valid signal to correctly communicate with other blocks or a test bench; automatic C/RTL co-simulation may not be able to verify such a port.
+INFO: [RTGEN 206-500] Setting interface mode on function 'seven_seg' to 'ap_ctrl_none'.
+WARNING: [RTGEN 206-101] Register 'state' is power-on initialization.
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'seven_seg' pipeline 'seven_seg' pipeline type 'function pipeline'
+INFO: [RTGEN 206-100] Finished creating RTL model for 'seven_seg'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 1 seconds. Elapsed time: 1.539 seconds; current allocated memory: 1.100 GB.
+INFO: [RTMG 210-279] Implementing memory 'seven_seg_seven_segment_code_V_ROM_AUTO_1R' using auto ROMs.
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 5 seconds. CPU system time: 0 seconds. Elapsed time: 5.042 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-111] Finished Updating report files: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.563 seconds; current allocated memory: 1.100 GB.
+INFO: [VHDL 208-304] Generating VHDL RTL for seven_seg.
+INFO: [VLOG 209-307] Generating Verilog RTL for seven_seg.
+INFO: [HLS 200-789] **** Estimated Fmax: 140.94 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 12 seconds. CPU system time: 1 seconds. Elapsed time: 31.049 seconds; current allocated memory: 317.145 MB.
+INFO: [HLS 200-112] Total CPU user time: 14 seconds. Total CPU system time: 3 seconds. Total elapsed time: 33.437 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -output=C:/Users/catar/OneDrive/Desktop
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_export -output C:/Users/catar/OneDrive/Desktop 
+INFO: [HLS 200-1510] Running: export_design -rtl verilog -format ip_catalog -output C:/Users/catar/OneDrive/Desktop 
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+INFO: [HLS 200-802] Generated output file C:/Users/catar/OneDrive/Desktop/export.zip
+INFO: [HLS 200-111] Finished Command export_design CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 24.398 seconds; current allocated memory: 337.617 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 26.776 seconds; peak allocated memory: 1.108 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=C:/Users/catar/OneDrive/Desktop
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output C:/Users/catar/OneDrive/Desktop -rtl verilog 
+INFO: [HLS 200-1510] Running: source ./7_segment/solution1/directives.tcl
+INFO: [HLS 200-1510] Running: set_directive_top -name seven_seg seven_seg 
+INFO: [HLS 200-1510] Running: export_design -rtl verilog -format ip_catalog -output C:/Users/catar/OneDrive/Desktop 
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+INFO: [HLS 200-802] Generated output file C:/Users/catar/OneDrive/Desktop/export.zip
+INFO: [HLS 200-111] Finished Command export_design CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 17.041 seconds; current allocated memory: 348.262 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 19.418 seconds; peak allocated memory: 1.108 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=C:/Users/catar/OneDrive/Desktop
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output C:/Users/catar/OneDrive/Desktop -rtl verilog 
+INFO: [HLS 200-1510] Running: source ./7_segment/solution1/directives.tcl
+INFO: [HLS 200-1510] Running: set_directive_top -name seven_seg seven_seg 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+ERROR: [SIM 211-100] 'csim_design' failed: nonzero return value.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 5.989 seconds; current allocated memory: 313.172 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 8.797 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=C:/Users/catar/OneDrive/Desktop
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output C:/Users/catar/OneDrive/Desktop -rtl verilog 
+INFO: [HLS 200-1510] Running: source ./7_segment/solution1/directives.tcl
+INFO: [HLS 200-1510] Running: set_directive_top -name seven_seg seven_seg 
+INFO: [HLS 200-1510] Running: csim_design -quiet 
+INFO: [SIM 211-2] *************** CSIM start ***************
+INFO: [SIM 211-4] CSIM will launch GCC as the compiler.
+INFO: [SIM 211-1] CSim done with 0 errors.
+INFO: [SIM 211-3] *************** CSIM finish ***************
+INFO: [HLS 200-111] Finished Command csim_design CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 3.695 seconds; current allocated memory: 331.582 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 6.329 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=C:/Users/catar/OneDrive/Desktop
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output C:/Users/catar/OneDrive/Desktop -rtl verilog 
+INFO: [HLS 200-1510] Running: source ./7_segment/solution1/directives.tcl
+INFO: [HLS 200-1510] Running: set_directive_top -name seven_seg seven_seg 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.019 seconds; current allocated memory: 804.953 MB.
+INFO: [HLS 200-10] Analyzing design file '7_segment/7_seg.cpp' ... 
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 12.577 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-131] Inlining function 'ssdm_int<8, false>::ssdm_int(unsigned char)' into 'ap_int_base<8, false>::ap_int_base(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_base.h:260:67)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::ap_int_base(int)' into 'ap_uint<8>::ap_uint(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int.h:333:58)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:4:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:13:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:12:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:11:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:10:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:9:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:8:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:7:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:6:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:5:3)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::ap_bit_ref(ap_int_base<8, false>*, int)' into 'ap_int_base<8, false>::operator[](int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_base.h:1175:30)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator bool() const' into 'ap_bit_ref<8, false>::operator=(ap_bit_ref<8, false> const&)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:886:38)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(unsigned long long)' into 'ap_bit_ref<8, false>::operator=(ap_bit_ref<8, false> const&)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:886:12)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator bool() const' into 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:1088:365)
+INFO: [HLS 214-131] Inlining function '_ZN8ssdm_intILi4ELb0EEC2EDq4_j' into 'ap_int_base<4, false>::ap_int_base(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_base.h:260:67)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<4, false>::ap_int_base(int)' into 'ap_uint<4>::ap_uint(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int.h:333:58)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:20:9)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:147:42)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:140:39)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:131:37)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:124:34)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:104:23)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:104:13)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:95:26)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:95:16)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:86:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:86:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:83:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:83:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:81:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:81:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:80:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:80:22)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:79:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:79:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:78:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:78:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:77:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:77:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:74:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:74:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:71:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:71:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:68:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:68:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:66:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:66:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:65:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:65:26)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:64:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:64:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:63:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:63:22)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:62:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:62:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:61:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:61:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:60:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:60:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:90)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:80)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:72)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:62)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:53)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:43)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:34)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:24)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:55:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:55:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:52:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:52:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:50:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:50:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:49:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:49:22)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:48:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:48:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:47:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:47:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:46:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:46:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:43:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:43:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:40:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:40:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:37:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:37:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:35:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:35:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:34:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:34:26)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:33:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:33:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:32:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:32:22)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:31:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:31:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:30:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:30:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:29:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:29:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:90)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:80)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:72)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:62)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:53)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:43)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:34)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:24)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(ap_bit_ref<8, false> const&)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:27:20)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:27:10)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:27:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(ap_bit_ref<8, false> const&)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:25:24)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:25:14)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:25:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:20:19)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_103_5' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:103:24)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_94_4' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:94:23)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_23_2' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:23:23)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_24_3' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:24:27)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_19_1' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:19:23)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_103_5' (7_segment/7_seg.cpp:103:24) in function 'seven_seg' completely with a factor of 4 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_94_4' (7_segment/7_seg.cpp:94:23) in function 'seven_seg' completely with a factor of 4 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_23_2' (7_segment/7_seg.cpp:23:23) in function 'seven_seg' completely with a factor of 8 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_24_3' (7_segment/7_seg.cpp:24:27) in function 'seven_seg' completely with a factor of 7 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_19_1' (7_segment/7_seg.cpp:19:23) in function 'seven_seg' completely with a factor of 8 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-241] Aggregating scalar variable 'seg_seven_enable' with compact=bit mode in 4-bits (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-241] Aggregating scalar variable 'seg_seven_data' with compact=bit mode in 8-bits (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-131] Inlining function '_llvm.fpga.pack.none.i8.s_struct.ap_uint<8>s' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:120:11)
+INFO: [HLS 214-131] Inlining function '_llvm.fpga.pack.none.i8.s_struct.ap_uint<8>s' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:136:11)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 2 seconds. CPU system time: 0 seconds. Elapsed time: 11.5 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.002 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.224 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.348 seconds; current allocated memory: 1.100 GB.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (7_segment/7_seg.cpp:10:9) to (7_segment/7_seg.cpp:160:1) in function 'seven_seg'... converting 172 basic blocks.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.929 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.629 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'seven_seg' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'seven_seg' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'seven_seg'.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 1, Depth = 10, function 'seven_seg'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.837 seconds; current allocated memory: 1.100 GB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.917 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'seven_seg' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/refresh_signal' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/input_r' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/seg_seven_data' to 'ap_none'.
+WARNING: [RTGEN 206-101] Port 'seg_seven_data' with mode 'ap_none' may require an associated data valid signal to correctly communicate with other blocks or a test bench; automatic C/RTL co-simulation may not be able to verify such a port.
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/seg_seven_enable' to 'ap_none'.
+WARNING: [RTGEN 206-101] Port 'seg_seven_enable' with mode 'ap_none' may require an associated data valid signal to correctly communicate with other blocks or a test bench; automatic C/RTL co-simulation may not be able to verify such a port.
+INFO: [RTGEN 206-500] Setting interface mode on function 'seven_seg' to 'ap_ctrl_none'.
+WARNING: [RTGEN 206-101] Register 'state' is power-on initialization.
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'seven_seg' pipeline 'seven_seg' pipeline type 'function pipeline'
+INFO: [RTGEN 206-100] Finished creating RTL model for 'seven_seg'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 2 seconds. CPU system time: 0 seconds. Elapsed time: 1.98 seconds; current allocated memory: 1.100 GB.
+INFO: [RTMG 210-279] Implementing memory 'seven_seg_seven_segment_code_V_ROM_AUTO_1R' using auto ROMs.
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 5 seconds. CPU system time: 1 seconds. Elapsed time: 6.177 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-111] Finished Updating report files: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.509 seconds; current allocated memory: 1.100 GB.
+INFO: [VHDL 208-304] Generating VHDL RTL for seven_seg.
+INFO: [VLOG 209-307] Generating Verilog RTL for seven_seg.
+INFO: [HLS 200-789] **** Estimated Fmax: 137.23 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 17 seconds. CPU system time: 1 seconds. Elapsed time: 36.792 seconds; current allocated memory: 330.586 MB.
+INFO: [HLS 200-112] Total CPU user time: 19 seconds. Total CPU system time: 3 seconds. Total elapsed time: 39.122 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=C:/Users/catar/OneDrive/Desktop
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output C:/Users/catar/OneDrive/Desktop -rtl verilog 
+INFO: [HLS 200-1510] Running: source ./7_segment/solution1/directives.tcl
+INFO: [HLS 200-1510] Running: set_directive_top -name seven_seg seven_seg 
+INFO: [HLS 200-1510] Running: export_design -rtl verilog -format ip_catalog -output C:/Users/catar/OneDrive/Desktop 
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+INFO: [HLS 200-802] Generated output file C:/Users/catar/OneDrive/Desktop/export.zip
+INFO: [HLS 200-111] Finished Command export_design CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 16.947 seconds; current allocated memory: 329.223 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 19.257 seconds; peak allocated memory: 1.108 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=C:/Users/catar/OneDrive/Desktop
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output C:/Users/catar/OneDrive/Desktop -rtl verilog 
+INFO: [HLS 200-1510] Running: source ./7_segment/solution1/directives.tcl
+INFO: [HLS 200-1510] Running: set_directive_top -name seven_seg seven_seg 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.024 seconds; current allocated memory: 860.926 MB.
+INFO: [HLS 200-10] Analyzing design file '7_segment/7_seg.cpp' ... 
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 12.989 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-131] Inlining function 'ssdm_int<8, false>::ssdm_int(unsigned char)' into 'ap_int_base<8, false>::ap_int_base(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_base.h:260:67)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::ap_int_base(int)' into 'ap_uint<8>::ap_uint(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int.h:333:58)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:4:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:13:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:12:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:11:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:10:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:9:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:8:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:7:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:6:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:5:3)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::ap_bit_ref(ap_int_base<8, false>*, int)' into 'ap_int_base<8, false>::operator[](int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_base.h:1175:30)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator bool() const' into 'ap_bit_ref<8, false>::operator=(ap_bit_ref<8, false> const&)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:886:38)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(unsigned long long)' into 'ap_bit_ref<8, false>::operator=(ap_bit_ref<8, false> const&)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:886:12)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator bool() const' into 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:1088:365)
+INFO: [HLS 214-131] Inlining function '_ZN8ssdm_intILi4ELb0EEC2EDq4_j' into 'ap_int_base<4, false>::ap_int_base(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_base.h:260:67)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<4, false>::ap_int_base(int)' into 'ap_uint<4>::ap_uint(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int.h:333:58)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:20:9)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:147:42)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:140:39)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:131:37)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:124:34)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:104:23)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:104:13)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:95:26)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:95:16)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:86:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:86:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:83:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:83:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:81:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:81:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:80:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:80:22)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:79:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:79:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:78:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:78:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:77:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:77:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:74:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:74:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:71:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:71:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:68:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:68:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:66:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:66:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:65:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:65:26)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:64:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:64:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:63:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:63:22)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:62:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:62:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:61:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:61:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:60:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:60:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:90)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:80)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:72)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:62)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:53)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:43)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:34)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:24)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:55:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:55:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:52:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:52:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:50:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:50:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:49:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:49:22)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:48:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:48:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:47:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:47:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:46:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:46:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:43:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:43:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:40:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:40:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:37:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:37:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:35:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:35:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:34:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:34:26)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:33:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:33:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:32:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:32:22)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:31:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:31:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:30:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:30:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:29:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:29:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:90)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:80)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:72)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:62)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:53)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:43)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:34)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:24)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(ap_bit_ref<8, false> const&)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:27:20)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:27:10)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:27:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(ap_bit_ref<8, false> const&)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:25:24)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:25:14)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:25:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:20:19)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_103_5' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:103:24)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_94_4' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:94:23)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_23_2' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:23:23)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_24_3' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:24:27)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_19_1' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:19:23)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_103_5' (7_segment/7_seg.cpp:103:24) in function 'seven_seg' completely with a factor of 4 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_94_4' (7_segment/7_seg.cpp:94:23) in function 'seven_seg' completely with a factor of 4 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_23_2' (7_segment/7_seg.cpp:23:23) in function 'seven_seg' completely with a factor of 8 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_24_3' (7_segment/7_seg.cpp:24:27) in function 'seven_seg' completely with a factor of 7 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_19_1' (7_segment/7_seg.cpp:19:23) in function 'seven_seg' completely with a factor of 8 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-241] Aggregating scalar variable 'seg_seven_enable' with compact=bit mode in 4-bits (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-241] Aggregating scalar variable 'seg_seven_data' with compact=bit mode in 8-bits (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-131] Inlining function '_llvm.fpga.pack.none.i8.s_struct.ap_uint<8>s' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:120:11)
+INFO: [HLS 214-131] Inlining function '_llvm.fpga.pack.none.i8.s_struct.ap_uint<8>s' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:136:11)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 10.682 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.002 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.304 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.256 seconds; current allocated memory: 1.100 GB.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (7_segment/7_seg.cpp:10:9) to (7_segment/7_seg.cpp:160:1) in function 'seven_seg'... converting 172 basic blocks.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.892 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.632 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'seven_seg' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'seven_seg' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'seven_seg'.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 1, Depth = 10, function 'seven_seg'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.887 seconds; current allocated memory: 1.100 GB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.857 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'seven_seg' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/refresh_signal' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/input_r' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/seg_seven_data' to 'ap_none'.
+WARNING: [RTGEN 206-101] Port 'seg_seven_data' with mode 'ap_none' may require an associated data valid signal to correctly communicate with other blocks or a test bench; automatic C/RTL co-simulation may not be able to verify such a port.
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/seg_seven_enable' to 'ap_none'.
+WARNING: [RTGEN 206-101] Port 'seg_seven_enable' with mode 'ap_none' may require an associated data valid signal to correctly communicate with other blocks or a test bench; automatic C/RTL co-simulation may not be able to verify such a port.
+INFO: [RTGEN 206-500] Setting interface mode on function 'seven_seg' to 'ap_ctrl_none'.
+WARNING: [RTGEN 206-101] Register 'state' is power-on initialization.
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'seven_seg' pipeline 'seven_seg' pipeline type 'function pipeline'
+INFO: [RTGEN 206-100] Finished creating RTL model for 'seven_seg'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 1.868 seconds; current allocated memory: 1.100 GB.
+INFO: [RTMG 210-279] Implementing memory 'seven_seg_seven_segment_code_V_ROM_AUTO_1R' using auto ROMs.
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 6 seconds. CPU system time: 0 seconds. Elapsed time: 5.762 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-111] Finished Updating report files: CPU user time: 0 seconds. CPU system time: 1 seconds. Elapsed time: 0.489 seconds; current allocated memory: 1.100 GB.
+INFO: [VHDL 208-304] Generating VHDL RTL for seven_seg.
+INFO: [VLOG 209-307] Generating Verilog RTL for seven_seg.
+INFO: [HLS 200-789] **** Estimated Fmax: 137.23 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 16 seconds. CPU system time: 1 seconds. Elapsed time: 35.771 seconds; current allocated memory: 273.535 MB.
+INFO: [HLS 200-112] Total CPU user time: 18 seconds. Total CPU system time: 3 seconds. Total elapsed time: 38.335 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=C:/Users/catar/OneDrive/Desktop
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output C:/Users/catar/OneDrive/Desktop -rtl verilog 
+INFO: [HLS 200-1510] Running: source ./7_segment/solution1/directives.tcl
+INFO: [HLS 200-1510] Running: set_directive_top -name seven_seg seven_seg 
+INFO: [HLS 200-1510] Running: export_design -rtl verilog -format ip_catalog -output C:/Users/catar/OneDrive/Desktop 
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+INFO: [HLS 200-802] Generated output file C:/Users/catar/OneDrive/Desktop/export.zip
+INFO: [HLS 200-111] Finished Command export_design CPU user time: 4 seconds. CPU system time: 0 seconds. Elapsed time: 15.986 seconds; current allocated memory: 336.184 MB.
+INFO: [HLS 200-112] Total CPU user time: 6 seconds. Total CPU system time: 2 seconds. Total elapsed time: 18.265 seconds; peak allocated memory: 1.108 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=C:/Users/catar/OneDrive/Desktop
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output C:/Users/catar/OneDrive/Desktop -rtl verilog 
+INFO: [HLS 200-1510] Running: source ./7_segment/solution1/directives.tcl
+INFO: [HLS 200-1510] Running: set_directive_top -name seven_seg seven_seg 
+INFO: [HLS 200-1510] Running: csynth_design 
+INFO: [HLS 200-111] Finished File checks and directory preparation: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.023 seconds; current allocated memory: 774.008 MB.
+INFO: [HLS 200-10] Analyzing design file '7_segment/7_seg.cpp' ... 
+INFO: [HLS 200-111] Finished Source Code Analysis and Preprocessing: CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 11.35 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-777] Using interface defaults for 'Vivado' flow target.
+INFO: [HLS 214-131] Inlining function 'ssdm_int<8, false>::ssdm_int(unsigned char)' into 'ap_int_base<8, false>::ap_int_base(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_base.h:260:67)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::ap_int_base(int)' into 'ap_uint<8>::ap_uint(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int.h:333:58)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:4:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:13:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:12:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:11:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:10:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:9:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:8:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:7:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:6:3)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into '__cxx_global_var_init' (7_segment/7_seg.h:5:3)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::ap_bit_ref(ap_int_base<8, false>*, int)' into 'ap_int_base<8, false>::operator[](int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_base.h:1175:30)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator bool() const' into 'ap_bit_ref<8, false>::operator=(ap_bit_ref<8, false> const&)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:886:38)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(unsigned long long)' into 'ap_bit_ref<8, false>::operator=(ap_bit_ref<8, false> const&)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:886:12)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator bool() const' into 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_ref.h:1088:365)
+INFO: [HLS 214-131] Inlining function '_ZN8ssdm_intILi4ELb0EEC2EDq4_j' into 'ap_int_base<4, false>::ap_int_base(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int_base.h:260:67)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<4, false>::ap_int_base(int)' into 'ap_uint<4>::ap_uint(int)' (C:/Xilinx-CN/Vitis_HLS/2022.1/common/technology/autopilot\ap_int.h:333:58)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:20:9)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:243:42)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:242:40)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:236:39)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:235:37)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:227:42)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:226:40)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:220:39)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:219:37)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:211:42)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:210:40)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:204:39)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:203:37)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:195:42)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:194:40)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:188:39)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:187:37)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:179:42)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:178:40)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:172:39)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:171:37)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:163:42)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:162:40)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:156:39)
+INFO: [HLS 214-131] Inlining function 'ap_uint<8>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:155:37)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:147:42)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:140:39)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:131:37)
+INFO: [HLS 214-131] Inlining function 'ap_uint<4>::ap_uint(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:124:34)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:104:23)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:104:13)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:95:26)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:95:16)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:86:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:86:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:83:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:83:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:81:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:81:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:80:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:80:22)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:79:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:79:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:78:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:78:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:77:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:77:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:74:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:74:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:71:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:71:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:68:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:68:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:66:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:66:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:65:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:65:26)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:64:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:64:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:63:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:63:22)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:62:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:62:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:61:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:61:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:60:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:60:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:90)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:80)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:72)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:62)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:53)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:43)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:34)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:59:24)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:55:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:55:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:52:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:52:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:50:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:50:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:49:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:49:22)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:48:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:48:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:47:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:47:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:46:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:46:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:43:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:43:18)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:40:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:40:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:37:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:37:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:35:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:35:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:34:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:34:26)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:33:36)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:33:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:32:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:32:22)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:31:32)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:31:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:30:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:30:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:29:28)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:29:18)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:90)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:80)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:72)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:62)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:53)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:43)
+INFO: [HLS 214-131] Inlining function 'bool operator==<8, false>(ap_bit_ref<8, false> const&, int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:34)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:28:24)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(ap_bit_ref<8, false> const&)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:27:20)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:27:10)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:27:22)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(ap_bit_ref<8, false> const&)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:25:24)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:25:14)
+INFO: [HLS 214-131] Inlining function 'ap_int_base<8, false>::operator[](int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:25:26)
+INFO: [HLS 214-131] Inlining function 'ap_bit_ref<8, false>::operator=(int)' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:20:19)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_103_5' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:103:24)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_94_4' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:94:23)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_23_2' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:23:23)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_24_3' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:24:27)
+INFO: [HLS 214-291] Loop 'VITIS_LOOP_19_1' is marked as complete unroll implied by the pipeline pragma (7_segment/7_seg.cpp:19:23)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_103_5' (7_segment/7_seg.cpp:103:24) in function 'seven_seg' completely with a factor of 4 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_94_4' (7_segment/7_seg.cpp:94:23) in function 'seven_seg' completely with a factor of 4 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_23_2' (7_segment/7_seg.cpp:23:23) in function 'seven_seg' completely with a factor of 8 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_24_3' (7_segment/7_seg.cpp:24:27) in function 'seven_seg' completely with a factor of 7 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-186] Unrolling loop 'VITIS_LOOP_19_1' (7_segment/7_seg.cpp:19:23) in function 'seven_seg' completely with a factor of 8 (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-241] Aggregating scalar variable 'seg_seven_enable' with compact=bit mode in 4-bits (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-241] Aggregating scalar variable 'seg_seven_data' with compact=bit mode in 8-bits (7_segment/7_seg.cpp:9:0)
+INFO: [HLS 214-131] Inlining function '_llvm.fpga.pack.none.i8.s_struct.ap_uint<8>s' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:120:11)
+INFO: [HLS 214-131] Inlining function '_llvm.fpga.pack.none.i8.s_struct.ap_uint<8>s' into 'seven_seg(bool, ap_uint<8>, ap_uint<8>&, ap_uint<4>&)' (7_segment/7_seg.cpp:136:11)
+INFO: [HLS 200-111] Finished Compiling Optimization and Transform: CPU user time: 2 seconds. CPU system time: 1 seconds. Elapsed time: 10.948 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-111] Finished Checking Pragmas: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.002 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] Starting code transformations ...
+INFO: [HLS 200-111] Finished Standard Transforms: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.21 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] Checking synthesizability ...
+INFO: [HLS 200-111] Finished Checking Synthesizability: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.251 seconds; current allocated memory: 1.100 GB.
+INFO: [XFORM 203-401] Performing if-conversion on hyperblock from (7_segment/7_seg.cpp:10:9) to (7_segment/7_seg.cpp:256:1) in function 'seven_seg'... converting 178 basic blocks.
+INFO: [HLS 200-111] Finished Loop, function and other optimizations: CPU user time: 0 seconds. CPU system time: 0 seconds. Elapsed time: 0.866 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-111] Finished Architecture Synthesis: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.614 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] Starting hardware synthesis ...
+INFO: [HLS 200-10] Synthesizing 'seven_seg' ...
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-42] -- Implementing module 'seven_seg' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [SCHED 204-11] Starting scheduling ...
+INFO: [SCHED 204-61] Pipelining function 'seven_seg'.
+INFO: [HLS 200-1470] Pipelining result : Target II = NA, Final II = 1, Depth = 10, function 'seven_seg'
+INFO: [SCHED 204-11] Finished scheduling.
+INFO: [HLS 200-111] Finished Scheduling: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.758 seconds; current allocated memory: 1.100 GB.
+INFO: [BIND 205-100] Starting micro-architecture generation ...
+INFO: [BIND 205-101] Performing variable lifetime analysis.
+INFO: [BIND 205-101] Exploring resource sharing.
+INFO: [BIND 205-101] Binding ...
+INFO: [BIND 205-100] Finished micro-architecture generation.
+INFO: [HLS 200-111] Finished Binding: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.918 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [HLS 200-10] -- Generating RTL for module 'seven_seg' 
+INFO: [HLS 200-10] ----------------------------------------------------------------
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/refresh_signal' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/input_r' to 'ap_none'.
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/seg_seven_data' to 'ap_none'.
+WARNING: [RTGEN 206-101] Port 'seg_seven_data' with mode 'ap_none' may require an associated data valid signal to correctly communicate with other blocks or a test bench; automatic C/RTL co-simulation may not be able to verify such a port.
+INFO: [RTGEN 206-500] Setting interface mode on port 'seven_seg/seg_seven_enable' to 'ap_none'.
+WARNING: [RTGEN 206-101] Port 'seg_seven_enable' with mode 'ap_none' may require an associated data valid signal to correctly communicate with other blocks or a test bench; automatic C/RTL co-simulation may not be able to verify such a port.
+INFO: [RTGEN 206-500] Setting interface mode on function 'seven_seg' to 'ap_ctrl_none'.
+WARNING: [RTGEN 206-101] Register 'state' is power-on initialization.
+INFO: [HLS 200-1030] Apply Unified Pipeline Control on module 'seven_seg' pipeline 'seven_seg' pipeline type 'function pipeline'
+INFO: [RTGEN 206-100] Finished creating RTL model for 'seven_seg'.
+INFO: [HLS 200-111] Finished Creating RTL model: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 2.076 seconds; current allocated memory: 1.100 GB.
+INFO: [RTMG 210-279] Implementing memory 'seven_seg_seven_segment_code_V_ROM_AUTO_1R' using auto ROMs.
+INFO: [HLS 200-111] Finished Generating all RTL models: CPU user time: 6 seconds. CPU system time: 0 seconds. Elapsed time: 6.239 seconds; current allocated memory: 1.100 GB.
+INFO: [HLS 200-111] Finished Updating report files: CPU user time: 1 seconds. CPU system time: 0 seconds. Elapsed time: 0.467 seconds; current allocated memory: 1.100 GB.
+INFO: [VHDL 208-304] Generating VHDL RTL for seven_seg.
+INFO: [VLOG 209-307] Generating Verilog RTL for seven_seg.
+INFO: [HLS 200-789] **** Estimated Fmax: 137.23 MHz
+INFO: [HLS 200-111] Finished Command csynth_design CPU user time: 17 seconds. CPU system time: 1 seconds. Elapsed time: 34.847 seconds; current allocated memory: 360.168 MB.
+INFO: [HLS 200-112] Total CPU user time: 19 seconds. Total CPU system time: 3 seconds. Total elapsed time: 37.182 seconds; peak allocated memory: 1.100 GB.
+==============================================================
+Vitis HLS - High-Level Synthesis from C, C++ and OpenCL v2022.1 (64-bit)
+Tool Version Limit: 2022.04
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+==============================================================
+INFO: [SYN 201-201] Setting up clock 'default' with a period of 10ns.
+INFO: [HLS 200-1611] Setting target device to 'xc7a100t-csg324-1'
+INFO: [HLS 200-1505] Using flow_target 'vivado'
+INFO: [HLS 200-1464] Running solution command: config_export -format=ip_catalog
+INFO: [HLS 200-1464] Running solution command: config_export -output=C:/Users/catar/OneDrive/Desktop
+INFO: [HLS 200-1464] Running solution command: config_export -rtl=verilog
+INFO: [HLS 200-1510] Running: set_part xc7a100t-csg324-1 
+INFO: [HLS 200-1510] Running: create_clock -period 10 -name default 
+INFO: [HLS 200-1510] Running: config_export -format ip_catalog -output C:/Users/catar/OneDrive/Desktop -rtl verilog 
+INFO: [HLS 200-1510] Running: source ./7_segment/solution1/directives.tcl
+INFO: [HLS 200-1510] Running: set_directive_top -name seven_seg seven_seg 
+INFO: [HLS 200-1510] Running: export_design -rtl verilog -format ip_catalog -output C:/Users/catar/OneDrive/Desktop 
+INFO: [IMPL 213-8] Exporting RTL as a Vivado IP.
+INFO: [HLS 200-802] Generated output file C:/Users/catar/OneDrive/Desktop/export.zip
+INFO: [HLS 200-111] Finished Command export_design CPU user time: 3 seconds. CPU system time: 0 seconds. Elapsed time: 16.153 seconds; current allocated memory: 343.422 MB.
+INFO: [HLS 200-112] Total CPU user time: 5 seconds. Total CPU system time: 2 seconds. Total elapsed time: 18.381 seconds; peak allocated memory: 1.108 GB.

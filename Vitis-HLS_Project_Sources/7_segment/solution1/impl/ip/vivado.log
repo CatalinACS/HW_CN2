@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Thu Jan 19 14:53:54 2023
+# Process ID: 12800
+# Current directory: D:/7_segment/solution1/impl/ip
+# Command line: vivado.exe -notrace -mode batch -source run_ippack.tcl
+# Log file: D:/7_segment/solution1/impl/ip/vivado.log
+# Journal file: D:/7_segment/solution1/impl/ip\vivado.jou
+# Running On: LAPTOP-QCG3VAHI, OS: Windows, CPU Frequency: 3294 MHz, CPU Physical cores: 16, Host memory: 16542 MB
+#-----------------------------------------------------------
+source run_ippack.tcl -notrace
+ipx::create_core: Time (s): cpu = 00:00:09 ; elapsed = 00:00:06 . Memory (MB): peak = 1280.375 ; gain = 0.000
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx-CN/Vivado/2022.1/data/ip'.
+INFO: [Common 17-206] Exiting Vivado at Thu Jan 19 14:54:05 2023...

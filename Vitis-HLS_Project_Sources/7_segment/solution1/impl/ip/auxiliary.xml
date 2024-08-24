@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xd:acceleratorMap xmlns:xd="http://www.xilinx.com/xidane" xd:functionName="seven_seg" xd:componentRef="seven_seg" xd:initiationInterval="1" xd:clockPeriod="10" xd:sequential="true" xd:hostMachine="64" xd:reset="control">
+  <xd:arg xd:name="refresh_signal" xd:originalName="refresh_signal" xd:direction="in" xd:interfaceRef="refresh_signal" xd:busTypeRef="register" xd:dataWidth="1"/>
+  <xd:arg xd:name="input" xd:originalName="input" xd:direction="in" xd:interfaceRef="input_r" xd:busTypeRef="register" xd:dataWidth="8"/>
+  <xd:arg xd:name="seg_seven_data" xd:originalName="seg_seven_data" xd:direction="out" xd:interfaceRef="seg_seven_data" xd:busTypeRef="register" xd:dataWidth="8"/>
+  <xd:arg xd:name="seg_seven_enable" xd:originalName="seg_seven_enable" xd:direction="out" xd:interfaceRef="seg_seven_enable" xd:busTypeRef="register" xd:dataWidth="4"/>
+  <xd:latencyEstimates xd:best-case="9" xd:worst-case="9" xd:average-case="9"/>
+  <xd:resourceEstimates xd:LUT="1290" xd:FF="503" xd:BRAM="0" xd:DSP="0"/>
+</xd:acceleratorMap>

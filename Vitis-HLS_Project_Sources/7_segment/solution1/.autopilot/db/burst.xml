@@ -1,0 +1,4 @@
+<VitisHLS:BurstInfo>
+    <burst group="BURST_VERBOSE_MISSED" fe_name="NonByteSizeMemoryAccessMissed" src_info="7_segment/7_seg.cpp:253:23" msg_id="214-226" msg_severity="INFO" msg_body="Non byte size access is unsupported" resolution="214-226" ID="sw.epilog.store.12" VarName="seg_seven_enable" ParentFunc="seven_seg(bool, ap_uint&lt;8&gt;, ap_uint&lt;8&gt;&amp;, ap_uint&lt;4&gt;&amp;)"/>
+</VitisHLS:BurstInfo>
+

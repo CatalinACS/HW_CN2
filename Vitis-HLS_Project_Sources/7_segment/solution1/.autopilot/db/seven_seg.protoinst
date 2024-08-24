@@ -1,0 +1,9 @@
+{
+	"version": "1.0",
+	"modules": {
+		"seven_seg": {
+			"proto_instances": {
+			}
+		}
+	}
+}

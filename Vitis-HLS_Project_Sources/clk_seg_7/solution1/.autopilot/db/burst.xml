@@ -1,0 +1,4 @@
+<VitisHLS:BurstInfo>
+    <burst group="BURST_VERBOSE_MISSED" fe_name="NonByteSizeMemoryAccessMissed" src_info="clk_seg_7/clk_seg_seven.cpp:22:13" msg_id="214-226" msg_severity="INFO" msg_body="Non byte size access is unsupported" resolution="214-226" ID="entry.store.14" VarName="out_signal" ParentFunc="clk_seg_seven(bool&amp;)"/>
+</VitisHLS:BurstInfo>
+

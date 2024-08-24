@@ -1,0 +1,4 @@
+<pragmas>
+<pragma file="clk_seg_7/clk_seg_seven.cpp" line="4" pragmaType="interface" parentfunction="clk_seg_seven" mode="ap_none" port="out_signal" name="" register="0"/>
+<pragma file="clk_seg_7/clk_seg_seven.cpp" line="5" pragmaType="interface" parentfunction="clk_seg_seven" mode="ap_ctrl_none" port="return" name=""/>
+</pragmas>

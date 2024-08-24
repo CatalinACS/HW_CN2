@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="7_seg.h" path="D:\7_segment\7_seg.h"/>
+    <originFiles name="7_seg.cpp" path="D:\7_segment\7_seg.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="7_seg-tb.h" path="D:\7_segment\7_seg-tb.h"/>
+    <originFiles name="7_seg-tb.cpp" path="D:\7_segment\7_seg-tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
