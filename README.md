@@ -8,6 +8,8 @@
 
 - Operated with High-level synthesis feature from Vitis HLS so that the C++ behavioral specification is used in Vivado along with a constraint file (Nexys-A7-100T-Master.xdc).
 
-- Credits to [Andrei Buhnici](https://github.com/AndreiBuhnici) for giving me some advices and inspiration.
-
 ![My Image](maxresdefault.jpg)
+
+Acknowledgement:
+
+Credits to [Andrei Buhnici](https://github.com/AndreiBuhnici) for giving me advices and inspiration.
